@@ -190,7 +190,7 @@ It demonstrates:
 - **[@Mohamed Abdallah Eldairouty](https://github.com/MohamedEldairouty)** – 221001719  
 - **[@Rimas Emad](https://github.com/rimaseldib)** – 221001067 
 - **Moaz Ali** – 221001970 
-- **Judy Yehia** – 221000495
+- **[@Judy Yehia](https://github.com/Judyehia)** – 221000495 
 
 ------------------------------------------------------------------------
 
