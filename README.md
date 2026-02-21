@@ -1,26 +1,14 @@
-```{=html}
 <p align="center">
-```
-`<img src="demo/logos/logo_light.png" alt="SkyTracer Logo" width="200"/>`{=html}
-```{=html}
+<img src="demo/logos/logo-light.png" alt="SkyTracer Logo" width="200"/>
 </p>
-```
-```{=html}
 <h1 align="center">
-```
 🚀 SkyTracer -- Smart Atmospheric Telemetry & AI Forecasting System
-```{=html}
 </h1>
-```
-```{=html}
 <p align="center">
-```
 🌍 Real-Time Environmental Monitoring • 📡 LoRa Telemetry • 🧠 AI Hazard
-Prediction\
-`<br/>`{=html} 🎓 Final Project -- Data Acquisition Course
-```{=html}
+Prediction
+<br/> 🎓 Final Project -- Data Acquisition Course
 </p>
-```
 
 ------------------------------------------------------------------------
 
@@ -95,31 +83,21 @@ backend.
 
 ### 🌙 Dark Dashboard
 
-```{=html}
 <p align="center">
-```
-`<img src="demo/screenshots/Dark_Dashboard.png" width="800"/>`{=html}
-```{=html}
+<img src="demo/screenshots/Dark_Dashboard.png" width="800"/>
 </p>
-```
+
 ### ☀️ Light Dashboard
 
-```{=html}
 <p align="center">
-```
-`<img src="demo/screenshots/Light_Dashboard.png" width="800"/>`{=html}
-```{=html}
+<img src="demo/screenshots/Light_Dashboard.png" width="800"/>
 </p>
-```
+
 ### 📍 GPS Page
 
-```{=html}
 <p align="center">
-```
-`<img src="demo/screenshots/Gps_Page.png" width="800"/>`{=html}
-```{=html}
+<img src="demo/screenshots/GPS_Page.png" width="800"/>
 </p>
-```
 
 ------------------------------------------------------------------------
 
@@ -209,10 +187,10 @@ It demonstrates:
 
 ## 👥 Team Members
 
--   Mohamed Abdallah Eldairouty
--   Rimas Emad
--   Moaz Ali
--   Judy Yehia
+- **[@Mohamed Abdallah Eldairouty](https://github.com/MohamedEldairouty)** – 221001719  
+- **[@Rimas Emad](https://github.com/rimaseldib)** – 221001067 
+- **Moaz Ali** – 221001970 
+- **Judy Yehia** – 221000495
 
 ------------------------------------------------------------------------
 
@@ -242,10 +220,6 @@ control) were validated in ground testing.
 
 ------------------------------------------------------------------------
 
-```{=html}
 <p align="center">
-```
 🌍 SkyTracer -- Observe. Analyze. Predict.
-```{=html}
 </p>
-```
